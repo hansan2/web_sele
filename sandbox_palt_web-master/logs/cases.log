@@ -1,0 +1,19 @@
+2019-08-13 17:19:20,353 - [INFO] - handle_log - case - [日志信息]这是info日志
+2019-08-13 17:19:20,354 - [WARNING] - handle_log - case - [日志信息]这是warning日志
+2019-08-13 17:19:20,354 - [ERROR] - handle_log - case - [日志信息]这是error日志
+2019-08-13 17:19:20,354 - [CRITICAL] - handle_log - case - [日志信息]这是critical日志
+
+
+
+2019-08-22 17:50:24,626 - [ERROR] - handle_base_page - case - [日志信息]元素定位出错，具体异常为：Message: 
+
+2019-08-22 17:54:23,393 - [ERROR] - handle_base_page - case - [日志信息]元素定位出错，具体异常为：Message: 
+
+2024-04-23 16:06:10,168 - [INFO] - handle_log - case - [日志信息]这是info日志
+2024-04-23 16:06:10,168 - [WARNING] - handle_log - case - [日志信息]这是warning日志
+2024-04-23 16:06:10,169 - [ERROR] - handle_log - case - [日志信息]这是error日志
+2024-04-23 16:06:10,169 - [CRITICAL] - handle_log - case - [日志信息]这是critical日志
+2024-04-23 16:29:26,462 - [ERROR] - handle_base_page - case - [日志信息]元素定位出错，具体元素是('xpath', '//span[contains(text(),"商家管理")]')
+2024-04-23 16:30:04,710 - [ERROR] - handle_base_page - case - [日志信息]元素定位出错，具体元素是('xpath', '//span[contains(text(),"会员后台")]')
+2024-04-23 16:31:59,082 - [ERROR] - handle_base_page - case - [日志信息]元素定位出错，具体元素是('xpath', '//div[@role="button"]')
+2024-04-23 16:34:11,593 - [ERROR] - handle_base_page - case - [日志信息]元素定位出错，具体元素是('xpath', '//span[contains(text(),"会员后台")]')
